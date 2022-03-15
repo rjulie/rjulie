@@ -1,6 +1,9 @@
-### Hi there 👋
+Fullstack developper in France. 
+If you are interested in working with me, please get in touch. 
+contact@juliereynal.com
 
 <!--
+### Hi there 👋
 **rjulie/rjulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
