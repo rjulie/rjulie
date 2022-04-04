@@ -1,6 +1,6 @@
 Fullstack developper in France. 
 If you are interested in working with me, please get in touch. 
-contact@juliereynal.com
+rjulie.pro@gmail.com
 
 <!--
 ### Hi there 👋
